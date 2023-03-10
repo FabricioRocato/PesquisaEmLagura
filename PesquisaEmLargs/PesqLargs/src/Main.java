@@ -39,9 +39,6 @@ public class Main {
         ArrayList<String> vizinhosMaria
          = new ArrayList<String>();
 
-
-
-
         tabela.put("Milena", vizinhosMilena);
         tabela.put("Andres", vizinhosAndres);
         tabela.put("Javier", vizinhosJavier);
